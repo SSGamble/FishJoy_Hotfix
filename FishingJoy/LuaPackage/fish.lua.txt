@@ -1,0 +1,298 @@
+local UnityEngine = CS.UnityEngine
+-- 1.1.1.点击宝箱领取的金币钻石太拥挤，需要分散一点。
+--    只是针对数值进行了修改
+xlua.hotfix(CS.Treasour,'CreatePrize',
+    function(self)
+        for i=0,4,1 do
+            local go = UnityEngine.GameObject.Instantiate(self.gold,self.transform.position+UnityEngine.Vector3(-10+ i * 40, 0, 0),self.transform.rotation)
+            go.transform.SetParent(go.transform,self.cavas)
+            local go1 = UnityEngine.GameObject.Instantiate(self.diamands,self.transform.position+UnityEngine.Vector3(0, 40, 0)+UnityEngine.Vector3(-10+ i * 40, 0, 0),self.transform.rotation)
+            go1.transform.SetParent(go1.transform,self.cavas)
+        end
+    end
+)
+
+-- ******************************************************************
+
+-- 1.1.2.玩家金币钻石不够时没有相应处理。
+xlua.private_accessible(CS.Gun) -- 访问私有成员
+xlua.hotfix(CS.Gun,'Attack',function(self)
+	if UnityEngine.Input.GetMouseButtonDown(0) then
+		-- 1.2.2 与 UI 交互时不能发射子弹
+		if UnityEngine.EventSystems.EventSystem.current:IsPointerOverGameObject() then
+			return
+		end
+		--[[
+		1.1.2 玩家金币钻石不够时没有相应处理。不完整， 1.3.2 修复
+		if self.gold<1+(self.gunLevel-1)*2 or gold==0 then
+			return
+		end
+		--]]
+		-- 1.3.2 炮台3太强，且钻石没用处，不削弱，只有氪金才可使用 
+		--  等级3 消耗钻石
+		if self.gunLevel==3 and self.diamands<3 then
+		  return
+		elseif self.gunLevel~=3 then
+			if self.gold<1+(self.gunLevel-1)*2 or gold==0 then
+				return
+			end
+		end
+		self.bullectAudio.clip=self.bullectAudios[self.gunLevel-1]
+		self.bullectAudio:Play()
+		if self.Butterfly then
+			UnityEngine.GameObject.Instantiate(self.Bullects[self.gunLevel-1],self.attackPos.position,self.attackPos.rotation*UnityEngine.Quaternion.Euler(0,0,20))
+			UnityEngine.GameObject.Instantiate(self.Bullects[self.gunLevel-1],self.attackPos.position,self.attackPos.rotation*UnityEngine.Quaternion.Euler(0,0,-20))
+		end
+		UnityEngine.GameObject.Instantiate(self.Bullects[self.gunLevel-1],self.attackPos.position,self.attackPos.rotation)
+		if not self.canShootForFree then
+			if self.gunLevel==3 then
+				self:DiamandsChange(-3)
+			else
+				self:GoldChange(-1-(self.gunLevel-1)*2)
+			end
+		end
+		self.attackCD=0
+		self.attack=false
+	end
+end)
+
+-- ******************************************************************
+
+-- 1.2.2 技能扣钻石太多。
+--  几个技能都在 Start 方法里设定了数值，直接修改赋值即可
+
+xlua.private_accessible(CS.Fire)
+xlua.hotfix(CS.Fire,'Start',function(self)
+	self.reduceDiamands = 8;
+end)
+
+xlua.private_accessible(CS.Ice)
+xlua.hotfix(CS.Ice,'Start',function(self)
+	self.reduceDiamands = 8;
+end)
+
+xlua.private_accessible(CS.ButterFly)
+xlua.hotfix(CS.ButterFly,'Start',function(self)
+	self.reduceDiamands = 5;
+end)
+
+--*************************************************************
+
+-- 1.2.3 boss 撞击玩家数值变动一样且不是减少是增加，即撞击时会增加金钱。
+--  撞击时，减少 20 金币
+
+local util=require 'util' -- 引入库
+
+xlua.private_accessible(CS.Boss)
+util.hotfix_ex(CS.Boss,'Start',function(self)
+	self.Start(self) -- 先执行自身的方法
+	self.m_reduceGold=self.m_reduceGold-20 -- 再执行附加方法
+end)
+
+xlua.private_accessible(CS.DeffendBoss)
+util.hotfix_ex(CS.DeffendBoss,'Start',function(self)
+	self.Start(self)
+	self.m_reduceGold=self.m_reduceGold-30
+end)
+
+xlua.private_accessible(CS.InvisibleBoss)
+util.hotfix_ex(CS.InvisibleBoss,'Start',function(self)
+	self.Start(self)
+	self.m_reduceDiamond=self.m_reduceDiamond-5
+end)
+
+--********************************************************************
+
+-- 1.3.1 boss 撞击玩家当钻石金币不够时会产生负数。
+
+util.hotfix_ex(CS.Gun,'GoldChange',function(self,number)
+	self.GoldChange(self,number)
+	if self.gold<-number then
+		self.gold=0
+		return
+	end
+end)
+
+util.hotfix_ex(CS.Gun,'DiamandsChange',function(self,number)
+	self.DiamandsChange(self,number)
+	if self.diamands<-number then
+		self.diamands=0
+		return
+	end
+end)
+
+--******************************************************************
+
+-- 1.3.3 大鱼太多
+
+local canCreateNewFish=true
+local changeMapTimeval=0
+
+-- 加载资源
+xlua.hotfix(CS.CreateFish,'Start',function(self)
+	CS.HotFixScript.LoadResource('level3fish3','gameobject\\enemy.ab')
+	CS.HotFixScript.LoadResource('SeaWave','gameobject\\wave.ab')
+	--self.hotFixScript:LoadResource('level3fish3','gameobject\\enemy.ab')
+	--self.hotFixScript:LoadResource('SeaWave','gameobject\\wave.ab')
+end)
+   
+xlua.private_accessible(CS.CreateFish)
+xlua.hotfix(CS.CreateFish,'Update',function(self)
+	-- 2.0.2 生成海浪
+	if canCreateNewFish then
+		if changeMapTimeval >=50 then
+			go=CS.HotFixScript.GetGameObject('SeaWave')
+			UnityEngine.GameObject.Instantiate(go)
+			canCreateNewFish=false
+			changeMapTimeval=0
+		else
+			changeMapTimeval=changeMapTimeval+UnityEngine.Time.deltaTime
+		end
+	else
+		return
+	end
+	self:CreateALotOfFish()
+	--单种鱼的生成
+        if self.ItemtimeVal>=0.5 then
+            --位置随机数
+            self.num =UnityEngine.Mathf.Floor(UnityEngine.Random.Range(0, 4)
+			) 
+            --游戏物体随机数
+            self.ItemNum =UnityEngine.Mathf.Floor(UnityEngine.Random.Range(1, 101))
+			local halfLength=self.fishList.Length/2
+			local littlefishTypeIndex=UnityEngine.Mathf.Floor(UnityEngine.Random.Range(0,halfLength))
+			local bigfishTypeIndex=UnityEngine.Mathf.Floor(UnityEngine.Random.Range(halfLength,self.fishList.Length))
+			local itemTypeIndex=UnityEngine.Mathf.Floor(UnityEngine.Random.Range(0,self.item.Length))
+            --产生气泡
+            if self.ItemNum<20 then
+                self:CreateGameObject(self.item[3])
+            end
+            if  self.ItemNum <= 42 then
+				for i=0,2,1 do
+					self:CreateGameObject(self.fishList[littlefishTypeIndex])
+				end
+				self:CreateGameObject(self.item[itemTypeIndex])
+            elseif self.ItemNum >= 43 and self.ItemNum < 72 then
+				for i=0,1,1 do
+					self:CreateGameObject(self.fishList[bigfishTypeIndex])
+				end
+				self:CreateGameObject(self.item[itemTypeIndex])
+			-- 2.0.1 新鱼
+			elseif self.ItemNum >= 73 and self.ItemNum < 83 then
+				newFish=CS.HotFixScript.GetGameObject('level3fish3')
+				self:CreateGameObject(newFish)
+            elseif self.ItemNum >= 84 and self.ItemNum < 86 then
+				self:CreateGameObject(self.boss)
+            elseif self.ItemNum >= 87 and self.ItemNum <= 88 then
+				self:CreateGameObject(self.boss2)
+            elseif self.ItemNum==100 then
+                self:CreateGameObject(self.boss3)
+            else
+                self:CreateGameObject(self.item[0]);         
+            end
+			self.ItemtimeVal = 0
+        else
+            self.ItemtimeVal =self.ItemtimeVal+CS.UnityEngine.Time.deltaTime;
+        end
+end)
+
+--**********************************************************************************
+
+-- 1.4.1 扑鱼是考虑了鱼的血量与子弹的伤害来模拟概率，这样玩家体验不好，要使用传统的概率来扑鱼。
+
+xlua.private_accessible(CS.Fish)
+xlua.hotfix(CS.Fish,'TakeDamage',function(self,attackValue)
+		if UnityEngine.Gun.Instance.Fire then
+            attackValue=attackValue*2;
+        end
+        local catchValue=UnityEngine.Mathf.Floor(UnityEngine.Random.Range(0,100))
+        if catchValue<=(50-(self.hp-attackValue))/2 then
+        
+            self.isDead = true
+            for i=0,8,1 do
+                UnityEngine.GameObject.Instantiate(self.pao, self.transform.position, UnityEngine.Quaternion.Euler(self.transform.eulerAngles + UnityEngine.Vector3(0, 45 * i, 0)))
+            end
+
+            self.gameObjectAni:SetTrigger("Die")
+            self:Invoke("Prize", 0.7)
+        end
+end)
+
+xlua.hotfix(CS.Boss,'TakeDamage',function(self,attackValue)
+		if UnityEngine.Gun.Instance.Fire then
+        
+            attackValue=attackValue*2;
+        end
+
+        local catchValue=UnityEngine.Mathf.Floor(UnityEngine.Random.Range(0,100))
+        if catchValue<=(attackValue*3-self.hp/10) then
+        
+            UnityEngine.GameObject.Instantiate(self.deadEeffect, self.transform.position, self.transform.rotation)
+            CS.Gun.Instance:GoldChange(self.GetGold * 10)
+            CS.Gun.Instance:DiamandsChange(self.GetDiamands * 10)
+
+            for i=0,10,1 do
+            
+                local itemGo =UnityEngine.GameObject.Instantiate(self.gold, self.transform.position, UnityEngine.Quaternion.Euler(self.transform.eulerAngles + UnityEngine.Vector3(0, 18 + 36 * (i - 1), 0)))
+                itemGo:GetComponent('Gold').bossPrize = true
+            end
+            for i=0,10,1 do
+									
+                local itemGo1 =UnityEngine.GameObject.Instantiate(self.diamands,self.transform.position, UnityEngine.Quaternion.Euler(self.transform.eulerAngles + UnityEngine.Vector3(0, 36 + 36 * (i - 1), 0)))
+                itemGo1:GetComponent('Gold').bossPrize = true
+            end
+            UnityEngine.Object.Destroy(self.gameObject)
+        
+		end
+end)
+
+-- ***********************************************************************************
+
+-- 1.4.2 炮台移动是根据鼠标的水平数值滑动来模拟跟随的，改为玩家按下ad键来旋转炮台
+
+xlua.hotfix(CS.Gun,'RotateGun',function(self)
+		if UnityEngine.Input.GetKey(UnityEngine.KeyCode.A) then
+			self.transform:Rotate(UnityEngine.Vector3.forward * self.rotateSpeed)
+		elseif UnityEngine.Input.GetKey(UnityEngine.KeyCode.D) then
+			self.transform:Rotate(-UnityEngine.Vector3.forward * self.rotateSpeed)
+		end
+		self:ClampAngle()
+end)
+
+xlua.private_accessible(CS.GunImage)
+xlua.hotfix(CS.GunImage,'RotateGun',function(self)
+		if UnityEngine.Input.GetKey(UnityEngine.KeyCode.A) then
+			self.transform:Rotate(UnityEngine.Vector3.forward * self.rotateSpeed)
+		elseif UnityEngine.Input.GetKey(UnityEngine.KeyCode.D) then
+			self.transform:Rotate(-UnityEngine.Vector3.forward * self.rotateSpeed)
+		end
+		self:ClampAngle()
+end)
+
+-- ***********************************************************************************
+
+-- 2.0.2 海浪
+xlua.private_accessible(CS.HotFixEmpty)
+xlua.hotfix(CS.HotFixEmpty,'Start',function(self)
+	self:Invoke("BehaviourMethod",8)
+end)
+
+xlua.hotfix(CS.HotFixEmpty,'Update',function(self)
+	self.transform:Translate(-self.transform.right*4*UnityEngine.Time.deltaTime,UnityEngine.Space.World)
+end)
+
+xlua.hotfix(CS.HotFixEmpty,'OnTriggerEnter',function(self,other)
+	if other.tag~="Untagged" and other.tag~="Wall" then
+		UnityEngine.Object.Destroy(other.gameObject)
+	end
+end)
+
+xlua.hotfix(CS.HotFixEmpty,'BehaviourMethod',function(self)
+	CS.Gun.Instance.level=CS.Gun.Instance.level+1
+	if CS.Gun.Instance.level==4 then
+		CS.Gun.Instance.level=1
+	end
+	canCreateNewFish=true
+	CS.Gun.Instance.changeAudio=true
+	UnityEngine.Object.Destroy(self.gameObject)
+end)

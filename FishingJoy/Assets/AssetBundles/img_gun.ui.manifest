@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2194997718
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e69e520fda1ae2d3ba6675a3156bdec1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 983472b1bd64392f007b77f0b7cae1b7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a63eae02a301ad44a93dd8781eba434, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2083ebd455820b14f96d8b71db2ac064, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41b7d8d808daed14793058a9661ce621, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefebs/UI/PlayerUI/Img_Gun.prefab
+Dependencies: []

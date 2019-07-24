@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: fc3e8a1a41fc9d449af2077c233926f6
+timeCreated: 1507265774
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ef_projectile_1_0
+    21300002: ef_projectile_1_1
+    21300004: ef_projectile_1_2
+    21300006: ef_projectile_1_3
+    21300008: ef_projectile_1_4
+    21300010: ef_projectile_1_5
+    21300012: ef_projectile_1_6
+    21300014: ef_projectile_1_7
+    21300016: ef_projectile_1_8
+    21300018: ef_projectile_1_9
+    21300020: ef_projectile_1_10
+    21300022: ef_projectile_1_11
+    21300024: ef_projectile_1_12
+    21300026: ef_projectile_1_13
+    21300028: ef_projectile_1_14
+    21300030: ef_projectile_1_15
+    21300032: ef_projectile_1_16
+    21300034: ef_projectile_1_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ef_projectile_1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 119
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 119
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 118
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 92
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 92
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 92
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 92
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 67
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 67
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 66
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 66
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 40
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 40
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 40
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 40
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 15
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ef_projectile_1_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 9
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

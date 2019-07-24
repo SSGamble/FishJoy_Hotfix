@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2950565929
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4191fac10e58bb1c53b9f8a49a73e0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3b56e0bc8f8a572af2744baa02ed2722
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 058595101f7ec7045ba3919cd2fa6cd7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd308cf16c9f8334a86ed1be9c2ad378, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 683fffd9e8699d747851e751a810c62f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c020d9acfdf6d042ab8559832896e51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d8a2bbcd06a37b48aeabe6e86606f35, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefebs/Enemy/level3fish3.prefab
+Dependencies: []

@@ -1,0 +1,7342 @@
+fileFormatVersion: 2
+guid: 3de6784a30f79ce4d9fb3fceb9bdaf00
+timeCreated: 1507703757
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slotMain-hd_0
+    21300002: slotMain-hd_1
+    21300004: slotMain-hd_2
+    21300006: slotMain-hd_3
+    21300008: slotMain-hd_4
+    21300010: slotMain-hd_5
+    21300012: slotMain-hd_6
+    21300014: slotMain-hd_7
+    21300016: slotMain-hd_8
+    21300018: slotMain-hd_9
+    21300020: slotMain-hd_10
+    21300022: slotMain-hd_11
+    21300024: slotMain-hd_12
+    21300026: slotMain-hd_13
+    21300028: slotMain-hd_14
+    21300030: slotMain-hd_15
+    21300032: slotMain-hd_16
+    21300034: slotMain-hd_17
+    21300036: slotMain-hd_18
+    21300038: slotMain-hd_19
+    21300040: slotMain-hd_20
+    21300042: slotMain-hd_21
+    21300044: slotMain-hd_22
+    21300046: slotMain-hd_23
+    21300048: slotMain-hd_24
+    21300050: slotMain-hd_25
+    21300052: slotMain-hd_26
+    21300054: slotMain-hd_27
+    21300056: slotMain-hd_28
+    21300058: slotMain-hd_29
+    21300060: slotMain-hd_30
+    21300062: slotMain-hd_31
+    21300064: slotMain-hd_32
+    21300066: slotMain-hd_33
+    21300068: slotMain-hd_34
+    21300070: slotMain-hd_35
+    21300072: slotMain-hd_36
+    21300074: slotMain-hd_37
+    21300076: slotMain-hd_38
+    21300078: slotMain-hd_39
+    21300080: slotMain-hd_40
+    21300082: slotMain-hd_41
+    21300084: slotMain-hd_42
+    21300086: slotMain-hd_43
+    21300088: slotMain-hd_44
+    21300090: slotMain-hd_45
+    21300092: slotMain-hd_46
+    21300094: slotMain-hd_47
+    21300096: slotMain-hd_48
+    21300098: slotMain-hd_49
+    21300100: slotMain-hd_50
+    21300102: slotMain-hd_51
+    21300104: slotMain-hd_52
+    21300106: slotMain-hd_53
+    21300108: slotMain-hd_54
+    21300110: slotMain-hd_55
+    21300112: slotMain-hd_56
+    21300114: slotMain-hd_57
+    21300116: slotMain-hd_58
+    21300118: slotMain-hd_59
+    21300120: slotMain-hd_60
+    21300122: slotMain-hd_61
+    21300124: slotMain-hd_62
+    21300126: slotMain-hd_63
+    21300128: slotMain-hd_64
+    21300130: slotMain-hd_65
+    21300132: slotMain-hd_66
+    21300134: slotMain-hd_67
+    21300136: slotMain-hd_68
+    21300138: slotMain-hd_69
+    21300140: slotMain-hd_70
+    21300142: slotMain-hd_71
+    21300144: slotMain-hd_72
+    21300146: slotMain-hd_73
+    21300148: slotMain-hd_74
+    21300150: slotMain-hd_75
+    21300152: slotMain-hd_76
+    21300154: slotMain-hd_77
+    21300156: slotMain-hd_78
+    21300158: slotMain-hd_79
+    21300160: slotMain-hd_80
+    21300162: slotMain-hd_81
+    21300164: slotMain-hd_82
+    21300166: slotMain-hd_83
+    21300168: slotMain-hd_84
+    21300170: slotMain-hd_85
+    21300172: slotMain-hd_86
+    21300174: slotMain-hd_87
+    21300176: slotMain-hd_88
+    21300178: slotMain-hd_89
+    21300180: slotMain-hd_90
+    21300182: slotMain-hd_91
+    21300184: slotMain-hd_92
+    21300186: slotMain-hd_93
+    21300188: slotMain-hd_94
+    21300190: slotMain-hd_95
+    21300192: slotMain-hd_96
+    21300194: slotMain-hd_97
+    21300196: slotMain-hd_98
+    21300198: slotMain-hd_99
+    21300200: slotMain-hd_100
+    21300202: slotMain-hd_101
+    21300204: slotMain-hd_102
+    21300206: slotMain-hd_103
+    21300208: slotMain-hd_104
+    21300210: slotMain-hd_105
+    21300212: slotMain-hd_106
+    21300214: slotMain-hd_107
+    21300216: slotMain-hd_108
+    21300218: slotMain-hd_109
+    21300220: slotMain-hd_110
+    21300222: slotMain-hd_111
+    21300224: slotMain-hd_112
+    21300226: slotMain-hd_113
+    21300228: slotMain-hd_114
+    21300230: slotMain-hd_115
+    21300232: slotMain-hd_116
+    21300234: slotMain-hd_117
+    21300236: slotMain-hd_118
+    21300238: slotMain-hd_119
+    21300240: slotMain-hd_120
+    21300242: slotMain-hd_121
+    21300244: slotMain-hd_122
+    21300246: slotMain-hd_123
+    21300248: slotMain-hd_124
+    21300250: slotMain-hd_125
+    21300252: slotMain-hd_126
+    21300254: slotMain-hd_127
+    21300256: slotMain-hd_128
+    21300258: slotMain-hd_129
+    21300260: slotMain-hd_130
+    21300262: slotMain-hd_131
+    21300264: slotMain-hd_132
+    21300266: slotMain-hd_133
+    21300268: slotMain-hd_134
+    21300270: slotMain-hd_135
+    21300272: slotMain-hd_136
+    21300274: slotMain-hd_137
+    21300276: slotMain-hd_138
+    21300278: slotMain-hd_139
+    21300280: slotMain-hd_140
+    21300282: slotMain-hd_141
+    21300284: slotMain-hd_142
+    21300286: slotMain-hd_143
+    21300288: slotMain-hd_144
+    21300290: slotMain-hd_145
+    21300292: slotMain-hd_146
+    21300294: slotMain-hd_147
+    21300296: slotMain-hd_148
+    21300298: slotMain-hd_149
+    21300300: slotMain-hd_150
+    21300302: slotMain-hd_151
+    21300304: slotMain-hd_152
+    21300306: slotMain-hd_153
+    21300308: slotMain-hd_154
+    21300310: slotMain-hd_155
+    21300312: slotMain-hd_156
+    21300314: slotMain-hd_157
+    21300316: slotMain-hd_158
+    21300318: slotMain-hd_159
+    21300320: slotMain-hd_160
+    21300322: slotMain-hd_161
+    21300324: slotMain-hd_162
+    21300326: slotMain-hd_163
+    21300328: slotMain-hd_164
+    21300330: slotMain-hd_165
+    21300332: slotMain-hd_166
+    21300334: slotMain-hd_167
+    21300336: slotMain-hd_168
+    21300338: slotMain-hd_169
+    21300340: slotMain-hd_170
+    21300342: slotMain-hd_171
+    21300344: slotMain-hd_172
+    21300346: slotMain-hd_173
+    21300348: slotMain-hd_174
+    21300350: slotMain-hd_175
+    21300352: slotMain-hd_176
+    21300354: slotMain-hd_177
+    21300356: slotMain-hd_178
+    21300358: slotMain-hd_179
+    21300360: slotMain-hd_180
+    21300362: slotMain-hd_181
+    21300364: slotMain-hd_182
+    21300366: slotMain-hd_183
+    21300368: slotMain-hd_184
+    21300370: slotMain-hd_185
+    21300372: slotMain-hd_186
+    21300374: slotMain-hd_187
+    21300376: slotMain-hd_188
+    21300378: slotMain-hd_189
+    21300380: slotMain-hd_190
+    21300382: slotMain-hd_191
+    21300384: slotMain-hd_192
+    21300386: slotMain-hd_193
+    21300388: slotMain-hd_194
+    21300390: slotMain-hd_195
+    21300392: slotMain-hd_196
+    21300394: slotMain-hd_197
+    21300396: slotMain-hd_198
+    21300398: slotMain-hd_199
+    21300400: slotMain-hd_200
+    21300402: slotMain-hd_201
+    21300404: slotMain-hd_202
+    21300406: slotMain-hd_203
+    21300408: slotMain-hd_204
+    21300410: slotMain-hd_205
+    21300412: slotMain-hd_206
+    21300414: slotMain-hd_207
+    21300416: slotMain-hd_208
+    21300418: slotMain-hd_209
+    21300420: slotMain-hd_210
+    21300422: slotMain-hd_211
+    21300424: slotMain-hd_212
+    21300426: slotMain-hd_213
+    21300428: slotMain-hd_214
+    21300430: slotMain-hd_215
+    21300432: slotMain-hd_216
+    21300434: slotMain-hd_217
+    21300436: slotMain-hd_218
+    21300438: slotMain-hd_219
+    21300440: slotMain-hd_220
+    21300442: slotMain-hd_221
+    21300444: slotMain-hd_222
+    21300446: slotMain-hd_223
+    21300448: slotMain-hd_224
+    21300450: slotMain-hd_225
+    21300452: slotMain-hd_226
+    21300454: slotMain-hd_227
+    21300456: slotMain-hd_228
+    21300458: slotMain-hd_229
+    21300460: slotMain-hd_230
+    21300462: slotMain-hd_231
+    21300464: slotMain-hd_232
+    21300466: slotMain-hd_233
+    21300468: slotMain-hd_234
+    21300470: slotMain-hd_235
+    21300472: slotMain-hd_236
+    21300474: slotMain-hd_237
+    21300476: slotMain-hd_238
+    21300478: slotMain-hd_239
+    21300480: slotMain-hd_240
+    21300482: slotMain-hd_241
+    21300484: slotMain-hd_242
+    21300486: slotMain-hd_243
+    21300488: slotMain-hd_244
+    21300490: slotMain-hd_245
+    21300492: slotMain-hd_246
+    21300494: slotMain-hd_247
+    21300496: slotMain-hd_248
+    21300498: slotMain-hd_249
+    21300500: slotMain-hd_250
+    21300502: slotMain-hd_251
+    21300504: slotMain-hd_252
+    21300506: slotMain-hd_253
+    21300508: slotMain-hd_254
+    21300510: slotMain-hd_255
+    21300512: slotMain-hd_256
+    21300514: slotMain-hd_257
+    21300516: slotMain-hd_258
+    21300518: slotMain-hd_259
+    21300520: slotMain-hd_260
+    21300522: slotMain-hd_261
+    21300524: slotMain-hd_262
+    21300526: slotMain-hd_263
+    21300528: slotMain-hd_264
+    21300530: slotMain-hd_265
+    21300532: slotMain-hd_266
+    21300534: slotMain-hd_267
+    21300536: slotMain-hd_268
+    21300538: slotMain-hd_269
+    21300540: slotMain-hd_270
+    21300542: slotMain-hd_271
+    21300544: slotMain-hd_272
+    21300546: slotMain-hd_273
+    21300548: slotMain-hd_274
+    21300550: slotMain-hd_275
+    21300552: slotMain-hd_276
+    21300554: slotMain-hd_277
+    21300556: slotMain-hd_278
+    21300558: slotMain-hd_279
+    21300560: slotMain-hd_280
+    21300562: slotMain-hd_281
+    21300564: slotMain-hd_282
+    21300566: slotMain-hd_283
+    21300568: slotMain-hd_284
+    21300570: slotMain-hd_285
+    21300572: slotMain-hd_286
+    21300574: slotMain-hd_287
+    21300576: slotMain-hd_288
+    21300578: slotMain-hd_289
+    21300580: slotMain-hd_290
+    21300582: slotMain-hd_291
+    21300584: slotMain-hd_292
+    21300586: slotMain-hd_293
+    21300588: slotMain-hd_294
+    21300590: slotMain-hd_295
+    21300592: slotMain-hd_296
+    21300594: slotMain-hd_297
+    21300596: slotMain-hd_298
+    21300598: slotMain-hd_299
+    21300600: slotMain-hd_300
+    21300602: slotMain-hd_301
+    21300604: slotMain-hd_302
+    21300606: slotMain-hd_303
+    21300608: slotMain-hd_304
+    21300610: slotMain-hd_305
+    21300612: slotMain-hd_306
+    21300614: slotMain-hd_307
+    21300616: slotMain-hd_308
+    21300618: slotMain-hd_309
+    21300620: slotMain-hd_310
+    21300622: slotMain-hd_311
+    21300624: slotMain-hd_312
+    21300626: slotMain-hd_313
+    21300628: slotMain-hd_314
+    21300630: slotMain-hd_315
+    21300632: slotMain-hd_316
+    21300634: slotMain-hd_317
+    21300636: slotMain-hd_318
+    21300638: slotMain-hd_319
+    21300640: slotMain-hd_320
+    21300642: slotMain-hd_321
+    21300644: slotMain-hd_322
+    21300646: slotMain-hd_323
+    21300648: slotMain-hd_324
+    21300650: slotMain-hd_325
+    21300652: slotMain-hd_326
+    21300654: slotMain-hd_327
+    21300656: slotMain-hd_328
+    21300658: slotMain-hd_329
+    21300660: slotMain-hd_330
+    21300662: slotMain-hd_331
+    21300664: slotMain-hd_332
+    21300666: slotMain-hd_333
+    21300668: slotMain-hd_334
+    21300670: slotMain-hd_335
+    21300672: slotMain-hd_336
+    21300674: slotMain-hd_337
+    21300676: slotMain-hd_338
+    21300678: slotMain-hd_339
+    21300680: slotMain-hd_340
+    21300682: slotMain-hd_341
+    21300684: slotMain-hd_342
+    21300686: slotMain-hd_343
+    21300688: slotMain-hd_344
+    21300690: slotMain-hd_345
+    21300692: slotMain-hd_346
+    21300694: slotMain-hd_347
+    21300696: slotMain-hd_348
+    21300698: slotMain-hd_349
+    21300700: slotMain-hd_350
+    21300702: slotMain-hd_351
+    21300704: slotMain-hd_352
+    21300706: slotMain-hd_353
+    21300708: slotMain-hd_354
+    21300710: slotMain-hd_355
+    21300712: slotMain-hd_356
+    21300714: slotMain-hd_357
+    21300716: slotMain-hd_358
+    21300718: slotMain-hd_359
+    21300720: slotMain-hd_360
+    21300722: slotMain-hd_361
+    21300724: slotMain-hd_362
+    21300726: slotMain-hd_363
+    21300728: slotMain-hd_364
+    21300730: slotMain-hd_365
+    21300732: slotMain-hd_366
+    21300734: slotMain-hd_367
+    21300736: slotMain-hd_368
+    21300738: slotMain-hd_369
+    21300740: slotMain-hd_370
+    21300742: slotMain-hd_371
+    21300744: slotMain-hd_372
+    21300746: slotMain-hd_373
+    21300748: slotMain-hd_374
+    21300750: slotMain-hd_375
+    21300752: slotMain-hd_376
+    21300754: slotMain-hd_377
+    21300756: slotMain-hd_378
+    21300758: slotMain-hd_379
+    21300760: slotMain-hd_380
+    21300762: slotMain-hd_381
+    21300764: slotMain-hd_382
+    21300766: slotMain-hd_383
+    21300768: slotMain-hd_384
+    21300770: slotMain-hd_385
+    21300772: slotMain-hd_386
+    21300774: slotMain-hd_387
+    21300776: slotMain-hd_388
+    21300778: slotMain-hd_389
+    21300780: slotMain-hd_390
+    21300782: slotMain-hd_391
+    21300784: slotMain-hd_392
+    21300786: slotMain-hd_393
+    21300788: slotMain-hd_394
+    21300790: slotMain-hd_395
+    21300792: slotMain-hd_396
+    21300794: slotMain-hd_397
+    21300796: slotMain-hd_398
+    21300798: slotMain-hd_399
+    21300800: slotMain-hd_400
+    21300802: slotMain-hd_401
+    21300804: slotMain-hd_402
+    21300806: slotMain-hd_403
+    21300808: slotMain-hd_404
+    21300810: slotMain-hd_405
+    21300812: slotMain-hd_406
+    21300814: slotMain-hd_407
+    21300816: slotMain-hd_408
+    21300818: slotMain-hd_409
+    21300820: slotMain-hd_410
+    21300822: slotMain-hd_411
+    21300824: slotMain-hd_412
+    21300826: slotMain-hd_413
+    21300828: slotMain-hd_414
+    21300830: slotMain-hd_415
+    21300832: slotMain-hd_416
+    21300834: slotMain-hd_417
+    21300836: slotMain-hd_418
+    21300838: slotMain-hd_419
+    21300840: slotMain-hd_420
+    21300842: slotMain-hd_421
+    21300844: slotMain-hd_422
+    21300846: slotMain-hd_423
+    21300848: slotMain-hd_424
+    21300850: slotMain-hd_425
+    21300852: slotMain-hd_426
+    21300854: slotMain-hd_427
+    21300856: slotMain-hd_428
+    21300858: slotMain-hd_429
+    21300860: slotMain-hd_430
+    21300862: slotMain-hd_431
+    21300864: slotMain-hd_432
+    21300866: slotMain-hd_433
+    21300868: slotMain-hd_434
+    21300870: slotMain-hd_435
+    21300872: slotMain-hd_436
+    21300874: slotMain-hd_437
+    21300876: slotMain-hd_438
+    21300878: slotMain-hd_439
+    21300880: slotMain-hd_440
+    21300882: slotMain-hd_441
+    21300884: slotMain-hd_442
+    21300886: slotMain-hd_443
+    21300888: slotMain-hd_444
+    21300890: slotMain-hd_445
+    21300892: slotMain-hd_446
+    21300894: slotMain-hd_447
+    21300896: slotMain-hd_448
+    21300898: slotMain-hd_449
+    21300900: slotMain-hd_450
+    21300902: slotMain-hd_451
+    21300904: slotMain-hd_452
+    21300906: slotMain-hd_453
+    21300908: slotMain-hd_454
+    21300910: slotMain-hd_455
+    21300912: slotMain-hd_456
+    21300914: slotMain-hd_457
+    21300916: slotMain-hd_458
+    21300918: slotMain-hd_459
+    21300920: slotMain-hd_460
+    21300922: slotMain-hd_461
+    21300924: slotMain-hd_462
+    21300926: slotMain-hd_463
+    21300928: slotMain-hd_464
+    21300930: slotMain-hd_465
+    21300932: slotMain-hd_466
+    21300934: slotMain-hd_467
+    21300936: slotMain-hd_468
+    21300938: slotMain-hd_469
+    21300940: slotMain-hd_470
+    21300942: slotMain-hd_471
+    21300944: slotMain-hd_472
+    21300946: slotMain-hd_473
+    21300948: slotMain-hd_474
+    21300950: slotMain-hd_475
+    21300952: slotMain-hd_476
+    21300954: slotMain-hd_477
+    21300956: slotMain-hd_478
+    21300958: slotMain-hd_479
+    21300960: slotMain-hd_480
+    21300962: slotMain-hd_481
+    21300964: slotMain-hd_482
+    21300966: slotMain-hd_483
+    21300968: slotMain-hd_484
+    21300970: slotMain-hd_485
+    21300972: slotMain-hd_486
+    21300974: slotMain-hd_487
+    21300976: slotMain-hd_488
+    21300978: slotMain-hd_489
+    21300980: slotMain-hd_490
+    21300982: slotMain-hd_491
+    21300984: slotMain-hd_492
+    21300986: slotMain-hd_493
+    21300988: slotMain-hd_494
+    21300990: slotMain-hd_495
+    21300992: slotMain-hd_496
+    21300994: slotMain-hd_497
+    21300996: slotMain-hd_498
+    21300998: slotMain-hd_499
+    21301000: slotMain-hd_500
+    21301002: slotMain-hd_501
+    21301004: slotMain-hd_502
+    21301006: slotMain-hd_503
+    21301008: slotMain-hd_504
+    21301010: slotMain-hd_505
+    21301012: slotMain-hd_506
+    21301014: slotMain-hd_507
+    21301016: slotMain-hd_508
+    21301018: slotMain-hd_509
+    21301020: slotMain-hd_510
+    21301022: slotMain-hd_511
+    21301024: slotMain-hd_512
+    21301026: slotMain-hd_513
+    21301028: slotMain-hd_514
+    21301030: slotMain-hd_515
+    21301032: slotMain-hd_516
+    21301034: slotMain-hd_517
+    21301036: slotMain-hd_518
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slotMain-hd_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 181
+        width: 464
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 181
+        width: 455
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_2
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_3
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_4
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_5
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_6
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_7
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 965
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_8
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 965
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_9
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 965
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_10
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 965
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_11
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 965
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_12
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_13
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_14
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_15
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_16
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_17
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_18
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_19
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_20
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_21
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 966
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_22
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 966
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_23
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 966
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_24
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 966
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_25
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 966
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_26
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 966
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_27
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 855
+        width: 298
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_28
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 933
+        width: 280
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_29
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 933
+        width: 8
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_30
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 937
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_31
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_32
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_33
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_34
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_35
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_36
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 938
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_37
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 947
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_38
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 947
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_39
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 947
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_40
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 947
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_41
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 947
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_42
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 939
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_43
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_44
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_45
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_46
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_47
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_48
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 939
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_49
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 939
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_50
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_51
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_52
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_53
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_54
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 948
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_55
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 941
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_56
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 948
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_57
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 948
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_58
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 948
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_59
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 948
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_60
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 948
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_61
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_62
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_63
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_64
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_65
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_66
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 929
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_67
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 929
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_68
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 929
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_69
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 929
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_70
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 929
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_71
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_72
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_73
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_74
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_75
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_76
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_77
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_78
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_79
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_80
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 930
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_81
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 930
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_82
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 930
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_83
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 930
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_84
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 930
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_85
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 930
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_86
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 817
+        width: 212
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_87
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_88
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_89
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_90
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_91
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_92
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 900
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_93
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 900
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_94
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 900
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_95
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 900
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_96
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 900
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_97
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_98
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_99
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_100
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_101
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_102
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_103
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_104
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_105
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_106
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 901
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_107
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 902
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_108
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 902
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_109
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 902
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_110
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 902
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_111
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 902
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_112
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 863
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_113
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 876
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_114
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_115
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_116
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_117
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_118
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_119
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 875
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_120
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 882
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_121
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 882
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_122
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 882
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_123
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 882
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_124
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 882
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_125
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 875
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_126
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 875
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_127
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_128
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_129
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_130
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_131
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_132
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 875
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_133
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_134
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_135
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_136
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_137
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 883
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_138
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 876
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_139
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 884
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_140
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 884
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_141
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 884
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_142
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 884
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_143
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 884
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_144
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_145
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_146
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_147
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_148
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_149
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 864
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_150
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 864
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_151
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 864
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_152
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 864
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_153
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 864
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_154
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_155
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_156
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_157
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_158
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_159
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_160
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_161
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_162
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_163
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 865
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_164
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 866
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_165
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 866
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_166
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 866
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_167
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 866
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_168
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 866
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_169
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_170
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_171
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_172
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_173
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_174
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 834
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_175
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 834
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_176
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 834
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_177
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 834
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_178
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 834
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_179
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_180
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_181
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_182
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_183
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_184
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_185
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_186
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_187
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_188
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 835
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_189
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 836
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_190
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 836
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_191
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 836
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_192
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 836
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_193
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 836
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_194
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 805
+        width: 280
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_195
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 817
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_196
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 811
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_197
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_198
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_199
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_200
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_201
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_202
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 811
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_203
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 816
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_204
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 816
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_205
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 816
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_206
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 816
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_207
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 816
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_208
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 811
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_209
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_210
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_211
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_212
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_213
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_214
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 810
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_215
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 810
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_216
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_217
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_218
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_219
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_220
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 817
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_221
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 811
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_222
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 818
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_223
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 818
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_224
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 818
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_225
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 818
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_226
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 818
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_227
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_228
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_229
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_230
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_231
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_232
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 798
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_233
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 798
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_234
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 798
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_235
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 798
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_236
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 798
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_237
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_238
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_239
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_240
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_241
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_242
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_243
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_244
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_245
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_246
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 799
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_247
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 800
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_248
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 800
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_249
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 800
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_250
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 800
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_251
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 800
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_252
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 689
+        width: 212
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_253
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 757
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_254
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 772
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_255
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 757
+        width: 200
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_256
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 697
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_257
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_258
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_259
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_260
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_261
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_262
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 769
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_263
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 769
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_264
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 769
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_265
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 769
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_266
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 769
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_267
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_268
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_269
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_270
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_271
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_272
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_273
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_274
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_275
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_276
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_277
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 771
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_278
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 771
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_279
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 771
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_280
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 771
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_281
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 771
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_282
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 746
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_283
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_284
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_285
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_286
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_287
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_288
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 749
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_289
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 751
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_290
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 751
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_291
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 751
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_292
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 751
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_293
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 751
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_294
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 747
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_295
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_296
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_297
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_298
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_299
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_300
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 748
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_301
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_302
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_303
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_304
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_305
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 752
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_306
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 748
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_307
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 753
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_308
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 753
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_309
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 753
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_310
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 753
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_311
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 753
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_312
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 697
+        width: 191
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_313
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 701
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_314
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_315
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_316
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_317
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_318
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_319
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 733
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_320
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 733
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_321
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 733
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_322
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 733
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_323
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 733
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_324
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_325
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_326
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_327
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_328
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_329
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_330
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_331
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_332
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_333
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 734
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_334
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 735
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_335
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 735
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_336
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 735
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_337
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 735
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_338
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 735
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_339
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_340
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_341
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_342
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_343
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_344
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 704
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_345
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 704
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_346
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 704
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_347
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 704
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_348
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 704
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_349
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_350
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_351
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_352
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_353
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_354
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_355
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_356
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_357
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_358
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_359
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 706
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_360
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 706
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_361
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 706
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_362
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 706
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_363
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 706
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_364
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 685
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_365
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_366
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_367
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_368
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_369
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_370
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 686
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_371
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 686
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_372
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 686
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_373
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 686
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_374
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 686
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_375
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 686
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_376
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 686
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_377
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 686
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_378
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_379
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_380
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_381
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_382
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_383
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 685
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_384
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_385
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_386
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_387
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_388
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 687
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_389
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 685
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_390
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 688
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_391
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 688
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_392
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 688
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_393
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 688
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_394
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 688
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_395
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 565
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_396
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 571
+        width: 124
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_397
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 565
+        width: 124
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_398
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_399
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_400
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_401
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_402
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_403
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 668
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_404
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 668
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_405
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 668
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_406
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 668
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_407
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 668
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_408
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_409
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_410
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_411
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_412
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_413
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_414
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_415
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_416
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_417
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_418
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 670
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_419
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 670
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_420
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 670
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_421
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 670
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_422
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 670
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_423
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 669
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_424
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 541
+        width: 156
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_425
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 545
+        width: 6
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_426
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 232
+        width: 63
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_427
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 234
+        width: 65
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_428
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 642
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_429
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 641
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_430
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 484
+        width: 147
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_431
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 508
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_432
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 610
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_433
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 610
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_434
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 577
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_435
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 577
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_436
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 545
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_437
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 545
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_438
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 463
+        width: 134
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_439
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 455
+        width: 134
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_440
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 464
+        width: 113
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_441
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 557
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_442
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 510
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_443
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 510
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_444
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 398
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_445
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 477
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_446
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 478
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_447
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 322
+        width: 154
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_448
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 366
+        width: 158
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_449
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 446
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_450
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 446
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_451
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 347
+        width: 134
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_452
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 345
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_453
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 351
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_454
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 413
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_455
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 412
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_456
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 382
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_457
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 381
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_458
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 364
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_459
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 372
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_460
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 349
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_461
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 350
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_462
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 332
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_463
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 262
+        width: 128
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_464
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 260
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_465
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 317
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_466
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 317
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_467
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 262
+        width: 198
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_468
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 295
+        width: 97
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_469
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 235
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_470
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 245
+        width: 108
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_471
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 283
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_472
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 284
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_473
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 248
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_474
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 248
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_475
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 202
+        width: 200
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_476
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 206
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_477
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 231
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_478
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 233
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_479
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 190
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_480
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 122
+        width: 124
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_481
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 62
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_482
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 167
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_483
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 122
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_484
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 124
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_485
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 126
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_486
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 121
+        width: 100
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_487
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 428
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_488
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 137
+        width: 201
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_489
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 121
+        width: 200
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_490
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 43
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_491
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 157
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_492
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 62
+        width: 134
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_493
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 87
+        width: 306
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_494
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 77
+        width: 200
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_495
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 13
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_496
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 61
+        width: 200
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_497
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 2
+        width: 90
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_498
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 2
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_499
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 24
+        width: 6
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_500
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 12
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_501
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 2
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_502
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 116
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_503
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 6
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_504
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 3
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_505
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 7
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_506
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 200
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_507
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 49
+        width: 103
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_508
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 77
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_509
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 11
+        width: 183
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_510
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 52
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_511
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 24
+        width: 116
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_512
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 36
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_513
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 26
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_514
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 35
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_515
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 31
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_516
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 5
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_517
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 2
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slotMain-hd_518
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 13
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

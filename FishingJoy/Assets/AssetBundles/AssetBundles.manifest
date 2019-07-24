@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1432727361
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: img_gun.ui
+      Dependencies: {}
+    Info_1:
+      Name: ui_lefttable.ui
+      Dependencies: {}
+    Info_2:
+      Name: ui_returnmenu.ui
+      Dependencies: {}
+    Info_3:
+      Name: ui_righttable.ui
+      Dependencies: {}
+    Info_4:
+      Name: ui_skills.ui
+      Dependencies: {}
+    Info_5:
+      Name: ui_treasour.ui
+      Dependencies: {}
+    Info_6:
+      Name: missile1.item
+      Dependencies: {}
+    Info_7:
+      Name: boss3.enemy
+      Dependencies: {}
+    Info_8:
+      Name: gameobject/enemy.ab
+      Dependencies: {}
+    Info_9:
+      Name: gameobject/wave.ab
+      Dependencies: {}

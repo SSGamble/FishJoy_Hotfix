@@ -1,0 +1,28 @@
+-- 释放，反注册
+
+-- 1.1.1 点击宝箱领取的金币钻石太拥挤，需要分散一点
+xlua.hotfix(CS.Treasour,'CreatePrize',nil)
+-- 1.1.2 玩家金币钻石不够时没有相应处理,1.2.1 与UI交互时不能发射子弹
+xlua.hotfix(CS.Gun,'Attack',nil)
+-- 1.2.2 技能扣钻石太多
+xlua.hotfix(CS.Ice,'Start',nil)
+xlua.hotfix(CS.Fire,'Start',nil)
+xlua.hotfix(CS.ButterFly,'Start',nil)
+-- 1.2.3 boss 撞击玩家数值变动一样且不是减少是增加，即撞击时会增加金钱。
+xlua.hotfix(CS.Boss,'Start',nil)
+xlua.hotfix(CS.DeffendBoss,'Start',nil)
+xlua.hotfix(CS.InvisibleBoss,'Start',nil)
+-- 1.3.1 boss 撞击玩家当钻石金币不够时会产生负数。
+xlua.hotfix(CS.Gun,'GoldChange',nil)
+xlua.hotfix(CS.Gun,'DiamandsChange',nil)
+xlua.hotfix(CS.CreateFish,'Update',nil)
+xlua.hotfix(CS.Fish,'TakeDamage',nil)
+xlua.hotfix(CS.Boss,'TakeDamage',nil)
+xlua.hotfix(CS.Gun,'RotateGun',nil)
+xlua.hotfix(CS.GunImage,'RotateGun',nil)
+xlua.hotfix(CS.CreateFish,'Start',nil)
+-- 海浪，切换场景
+xlua.hotfix(CS.HotFixEmpty,'Start',nil)
+xlua.hotfix(CS.HotFixEmpty,'Update',nil)
+xlua.hotfix(CS.HotFixEmpty,'OnTriggerEnter',nil)
+xlua.hotfix(CS.HotFixEmpty,'BehaviourMethod',nil)

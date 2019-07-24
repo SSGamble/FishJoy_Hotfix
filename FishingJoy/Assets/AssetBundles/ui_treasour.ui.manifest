@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 1836609100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2a26d73939330344607dcfd91fa1982
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddc516be76ab89a1a3e01d6097a6e874
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2083ebd455820b14f96d8b71db2ac064, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b2ac4b95977810448800e4d4967646b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 789938f6edb3af443b44aa522f346c19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c020d9acfdf6d042ab8559832896e51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d8a2bbcd06a37b48aeabe6e86606f35, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefebs/UI/PlayerUI/UI_Treasour.prefab
+- Assets/Prefebs/UI/MoveUI/GoldImage.prefab
+Dependencies: []
